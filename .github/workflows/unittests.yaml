@@ -1,3 +1,4 @@
+# Added pull_request action
 name: Continuous Integration
 on: [push, pull_request]
 jobs:
